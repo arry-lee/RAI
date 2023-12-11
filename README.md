@@ -81,5 +81,5 @@ Dais 的诞生日是2023年11月30日。
 
 ## 相关链接
 - 项目地址: [https://pyrj.com/dais](https://pyrj.com/dais)
-- 下载链接: [https://github.com/arry-lee/dais]
+- 下载链接: [https://pyrj.com/dais/download](https://github.com/arry-lee/dais/releases/download/v0.6.0-beta/dais_v0.6.0-beta.zip)
 - 问题反馈群: 781924331
